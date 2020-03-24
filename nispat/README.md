@@ -1,4 +1,4 @@
-# nispat_cluster_setup
+# nispat
 Simple repository that describes my nispat installation and usage on HPCs
 
 # Environment build (cluster)
